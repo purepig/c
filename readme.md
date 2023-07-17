@@ -1,5 +1,7 @@
-C 语言练习
+C Language Exercise
 
-基本什么程序都有
+Classic program
+
+
 
 
